@@ -1,0 +1,9 @@
+*******************************************************
+To run the app with GUI interface 
+*******************************************************
+run mlfrStartGui.bat file
+or
+type in command line
+	java -jar mlfr.jar gui
+	or
+	mlfrStart.bat gui

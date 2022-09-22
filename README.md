@@ -34,6 +34,11 @@ For convenience, all these necessary networks are pre-generated and stored in th
 ```
 ./LFR_nets/
 ```
+## Experiments
+To start the experiments, you need to download this repository to yourself and execute all the Jupyter notebooks.
+In total, folder ```./notebooks``` contains two notebooks: 
+ - BioGRID.ipynb
+ - mLFR_experiments.ipynb
 
 ## References
 <a id="1">[1]</a> 

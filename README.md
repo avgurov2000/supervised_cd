@@ -36,9 +36,9 @@ For convenience, all these necessary networks are pre-generated and stored in th
 ```
 ## Experiments
 To start the experiments, you need to download this repository to yourself and execute all the Jupyter notebooks.
-In total, folder ```./notebooks``` contains two notebooks: 
- - BioGRID.ipynb
- - mLFR_experiments.ipynb
+In total, there are ```./notebooks``` two notebooks with experiments: 
+ - ```./notebooks/BioGRID.ipynb```. Contains the experiments with real-world multiplex biological networks
+ - ```./notebooks/mLFR_experiments.ipynb```. Contains the experiments with synthetic networks
 
 ## References
 <a id="1">[1]</a> 

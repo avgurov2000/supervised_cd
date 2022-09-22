@@ -30,7 +30,7 @@ This app is located in:
 ```
 Instructions for using it can be found <a href='https://github.com/pbrodka/mLFR-benchmark'>here</a>.
 
-For convenience, all these necessary networks are pre-generated and stored in the folder
+For convenience, all these necessary networks are pre-generated and stored in the folder:
 ```
 ./LFR_nets/
 ```

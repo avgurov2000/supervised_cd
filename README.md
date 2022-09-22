@@ -20,7 +20,7 @@ models trained on another network.
 
 ## Data
 We use two types of datasets in the study:
- - Four real-world multiplex biological networks [1]
+ - Four real-world multiplex biological networks [[1]](#1)
  - Synthetic multiplex (generated with <a href='https://github.com/pbrodka/mLFR-benchmark'>mLFR</a>)
 
 All of the synthetic data can be generated in our code using the specified mLFR app.
@@ -36,9 +36,5 @@ you want to cache the results for multiple runs you can run pre-processing manua
 
 
 ## References
-1. Stark C, Breitkreutz BJ, Reguly T, Boucher L, Breitkreutz A, Tyers M. BioGRID: a general repository for interaction datasets. Nucleic Acids Res. 2006 Jan 1;34(Database issue):D535-9. doi: 10.1093/nar/gkj109. PMID: 16381927; PMCID: PMC1347471.
+<a id="1">[1]</a> Stark C, Breitkreutz BJ, Reguly T, Boucher L, Breitkreutz A, Tyers M. BioGRID: a general repository for interaction datasets. Nucleic Acids Res. 2006 Jan 1;34(Database issue):D535-9. doi: 10.1093/nar/gkj109. PMID: 16381927; PMCID: PMC1347471.
 
-<a id="1">[1]</a> 
-Dijkstra, E. W. (1968). 
-Go to statement considered harmful. 
-Communications of the ACM, 11(3), 147-148.

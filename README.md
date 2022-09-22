@@ -42,7 +42,7 @@ In total, there are ```./notebooks``` two notebooks with experiments:
  - ```./notebooks/BioGRID.ipynb```. Contains the experiments with real-world multiplex biological networks
  - ```./notebooks/mLFR_experiments.ipynb```. Contains the experiments with synthetic networks
 
-After launching the corresponding Jupyter notebooks, the results will be displayed both in the notebooks themselves and will fall into the ```./Results/``` 
+After launching the corresponding Jupyter notebooks, the results will be displayed both in the notebooks themselves and will fall into the ```./Results/``` folder.
 
 ## References
 <a id="1">[1]</a> 

@@ -30,9 +30,6 @@ This app is located in:
 ```
 Instructions for using it can be found <a href='https://github.com/pbrodka/mLFR-benchmark'>here</a>.
 
-Datasets also require re-formatting and topological feature calculation. We call this
-process 'pre-processing'. When running experiments preprocessing happens automatically, but if 
-you want to cache the results for multiple runs you can run pre-processing manually. 
 
 
 ## References

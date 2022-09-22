@@ -23,6 +23,7 @@ We use two types of datasets in the study:
  - Four real-world multiplex biological networks [[1]](#1)
  - Synthetic multiplex generated with mLFR Benchmark [[2]](#2)
 
+Real-world multiplex biological networks can be found in ```./Data/``` folder.
 All of the synthetic data can be generated in our code using the specified mLFR app.
 This app is located in:
 ```
@@ -39,6 +40,8 @@ To start the experiments, you need to download this repository to yourself and e
 In total, there are ```./notebooks``` two notebooks with experiments: 
  - ```./notebooks/BioGRID.ipynb```. Contains the experiments with real-world multiplex biological networks
  - ```./notebooks/mLFR_experiments.ipynb```. Contains the experiments with synthetic networks
+
+After launching the corresponding Jupyter notebooks, the results will be displayed both in the notebooks themselves and will fall into the ```./Results/``` 
 
 ## References
 <a id="1">[1]</a> 

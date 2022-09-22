@@ -17,3 +17,23 @@ In this paper, we propose a supervised method that is based on the so-called lay
 Our experiments with synthetic and real-world networks show the efficiency of the supervised method, particularly, by means of promising 
 Normalized Mutual Information values (from 0.37 up to 0.79 on average) observed on several real-world networks for the community detection 
 models trained on another network.
+
+## Data
+We use two types of datasets in the study:
+ - Four real-world multiplex biological networks [1]
+ - Synthetic multiplex (generated with <a href='https://github.com/pbrodka/mLFR-benchmark'>mLFR</a>)
+
+All of the synthetic data can be generated in our code using the specified mLFR app.
+This app is located in:
+```
+./mLFR
+```
+Instructions for using it can be found <a href='https://github.com/pbrodka/mLFR-benchmark'>here</a>.
+
+Datasets also require re-formatting and topological feature calculation. We call this
+process 'pre-processing'. When running experiments preprocessing happens automatically, but if 
+you want to cache the results for multiple runs you can run pre-processing manually. 
+
+
+## References
+1. Stark C, Breitkreutz BJ, Reguly T, Boucher L, Breitkreutz A, Tyers M. BioGRID: a general repository for interaction datasets. Nucleic Acids Res. 2006 Jan 1;34(Database issue):D535-9. doi: 10.1093/nar/gkj109. PMID: 16381927; PMCID: PMC1347471.

@@ -1,6 +1,7 @@
-# Supervised community detection
-This work is an addition to the paper "Supervised community detection in multiplex networks based on
-layers convex flattening and modularity optimizatio" by Gurov et al.
+<h1 align="center"> Supervised community detection
+<h3 align="center">This work is an addition to the paper "Supervised community detection in multiplex networks based on
+layers convex flattening and modularity optimizatio" by Gurov et al.</h3>
+
 
 ## Abstract
 The problem of community detection in multiplex networks (the networks with multiple layers and the same set of nodes in each layer) is fundamental 

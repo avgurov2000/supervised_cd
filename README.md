@@ -24,6 +24,7 @@ We use two types of datasets in the study:
  - Synthetic multiplex generated with mLFR Benchmark [[2]](#2)
 
 Real-world multiplex biological networks can be found in ```./Data/``` folder.
+
 All of the synthetic data can be generated in our code using the specified mLFR app.
 This app is located in:
 ```

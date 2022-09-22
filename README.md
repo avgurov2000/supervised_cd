@@ -21,7 +21,7 @@ models trained on another network.
 ## Data
 We use two types of datasets in the study:
  - Four real-world multiplex biological networks [[1]](#1)
- - Synthetic multiplex (generated with <a href='https://github.com/pbrodka/mLFR-benchmark'>mLFR</a>)
+ - Synthetic multiplex generated with mLFR Benchmark [[2]](#2)
 
 All of the synthetic data can be generated in our code using the specified mLFR app.
 This app is located in:
@@ -38,4 +38,5 @@ For convenience, all these necessary networks are pre-generated and stored in th
 ## References
 <a id="1">[1]</a> 
 Stark, C., Breitkreutz, B. J., Reguly, T., Boucher, L., Breitkreutz, A., & Tyers, M. (2006). BioGRID: a general repository for interaction datasets. Nucleic acids research, 34(Database issue), D535–D539. https://doi.org/10.1093/nar/gkj109
-
+<a id="2">[2]</a>
+Bródka, P. (2016). A method for group extraction and analysis in multilayer social networks. arXiv preprint arXiv:1612.02377.

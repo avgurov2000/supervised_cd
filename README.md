@@ -26,11 +26,14 @@ We use two types of datasets in the study:
 All of the synthetic data can be generated in our code using the specified mLFR app.
 This app is located in:
 ```
-./mLFR
+./mLFR/
 ```
 Instructions for using it can be found <a href='https://github.com/pbrodka/mLFR-benchmark'>here</a>.
 
-
+For convenience, all these necessary networks are pre-generated and stored in the folder
+```
+./LFR_nets/
+```
 
 ## References
 <a id="1">[1]</a> 
